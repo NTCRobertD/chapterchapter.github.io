@@ -11,8 +11,8 @@ remote_theme: "manid2/lone-wolf-theme"
 bootswatch_theme: "united"
 
 # These settings are always used by Jekyll
-title: "Chapter of Democratic Socialists of America"
-url: https://[dsachapter].dsachapters.org
+title: "DSA space station"
+url: https://ntcrobertd.github.io/chapterchapter.github.io/
 
 # These settings ase used by the jekyll-seo-tag plugin. The plugin adds
 # metadata tags for search engines and social networks to better index and
